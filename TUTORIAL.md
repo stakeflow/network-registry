@@ -14,4 +14,4 @@ Firstly you need to fork the registry [repo](https://github.com/stakeflow/networ
 
 #### Step 4: Create a pull-request containing your updated data.
 
-#### Note: You can see an example of filling the validator data for Autonity Piccadilly testnet [here](https://github.com/stakeflow/network-registry/tree/main/autonity-piccadilly-testnet/validators/0x51b26F1Fbe01De79226067cc11f32c4bef4F56F8).
+#### Note: You can see an example of filling the validator data for Autonity Piccadilly testnet [here](https://github.com/stakeflow/network-registry/tree/main/autonity-piccadilly-testnet/validators/0xcc006ad0CC7eF15932192dA816BfF0b704069Ad8).
