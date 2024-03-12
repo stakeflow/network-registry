@@ -39,6 +39,7 @@ Each validator folder contains two files - `logo.svg` or `logo.png` and `validat
 
 `validator-details.json` - is a JSON file that contains basic information about the validator and has the following template:   
 ```javascript
+{
     "moniker": "",
     "keybase": "",
     "description": "",
@@ -48,6 +49,7 @@ Each validator folder contains two files - `logo.svg` or `logo.png` and `validat
     "twitter": "",
     "discord": "",
     "telegram": ""
+}
 ```
 In order to add your validator to Stakeflow, you need to create a pull-request, that adds a folder named according to the valoper address of your validator and containing properly arranged `logo.svg` and `validator-details.json` to the folder of the appropriate network. Please pay **attention**, that the *moniker* field of `validator-details.json` is mandatory.
 
