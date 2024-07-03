@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #0D0D1E;">
+    <title>img_rounded</title>
+    <g id="img_rounded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#0D0D1E" x="0" y="0" width="75" height="75"></rect>
+        <g id="Group" transform="translate(12.000000, 17.000000)">
+            <polygon id="Path" fill="#F2BF30" points="47.1066667 37 30.6666667 36.9867857 52 11.8928571"></polygon>
+            <polygon id="Path" fill="#F2BF30" points="4.89333333 37 0 11.8928571 21.3333333 36.9867857"></polygon>
+            <polygon id="Path" fill="#F2BF30" points="26.6133333 37 16 24.1953571 16.2 23.7328571 26.5733333 0 37.3333333 24.3539286"></polygon>
+            <polygon id="Path" fill="#CC9932" points="26.6666667 0.621071429 26.36 0 14.88 23.7328571 14.6666667 24.1953571 26.4 37 26.6666667 36.7225"></polygon>
+        </g>
+        <circle id="Oval" stroke="#F2BF30" stroke-width="4" cx="37.5" cy="37.5" r="35.5"></circle>
+    </g>
+</svg>
