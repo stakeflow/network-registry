@@ -35,7 +35,7 @@ The Validators folder contains the folders of the individual validators, named a
 
 Each validator folder contains two files - `logo.svg` or `logo.png` and `validator-details.json`   
 
-`logo.svg` - is an image file representing the validator's logo.   
+`logo.svg` (or `logo.png`) - is an image file representing the validator's logo.   
 
 `validator-details.json` - is a JSON file that contains basic information about the validator and has the following template:   
 ```javascript
@@ -43,7 +43,7 @@ Each validator folder contains two files - `logo.svg` or `logo.png` and `validat
     "moniker": "",
     "keybase": "",
     "description": "",
-    "website": ""
+    "website": "",
     "email": "",
     "github": "",
     "twitter": "",
